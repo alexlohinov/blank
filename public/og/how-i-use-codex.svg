@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#fafaf9"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="72" y="98" fill="#707070" font-size="16" letter-spacing="2">WRITINGS / DESIGN &amp; BUILDING</text>
+    <text x="68" y="288" fill="#212121" font-size="64" font-weight="500" letter-spacing="-3">How I Use Codex</text>
+    <text x="72" y="344" fill="#707070" font-size="23">From design to something you can use.</text>
+    <path d="M72 508h1056" stroke="#dededb"/>
+    <text x="72" y="555" fill="#707070" font-size="17">Websites · Prototypes · My own app</text>
+    <text x="1128" y="555" text-anchor="end" fill="#212121" font-size="17">lohinov.com</text>
+  </g>
+  <path d="M970 246l-40 40 40 40M1030 246l40 40-40 40M1014 226l-28 120" fill="none" stroke="#303030" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

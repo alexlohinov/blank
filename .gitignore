@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.prerender/
+.DS_Store
+.vercel/
+.env*
+!.env.example
+*.log
+coverage/

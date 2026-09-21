@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#fafaf9"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="72" y="98" fill="#707070" font-size="16" letter-spacing="2">SELECTED WORK / PASCAL</text>
+    <text x="68" y="288" fill="#212121" font-size="64" font-weight="500" letter-spacing="-3">A Quiet Space to Think</text>
+    <text x="72" y="344" fill="#707070" font-size="23">A local space for thoughts, without distractions.</text>
+    <path d="M72 508h1056" stroke="#dededb"/>
+    <text x="72" y="555" fill="#707070" font-size="17">Note-taking app design · Alex Lohinov</text>
+    <text x="1128" y="555" text-anchor="end" fill="#212121" font-size="17">lohinov.com</text>
+  </g>
+  <rect x="918" y="218" width="164" height="150" rx="12" fill="none" stroke="#303030" stroke-width="3"/><path d="M918 254h164M944 282h76M944 304h110M944 326h90" fill="none" stroke="#303030" stroke-width="3" stroke-linecap="round"/><circle cx="936" cy="236" r="3" fill="#303030"/><circle cx="948" cy="236" r="3" fill="#303030"/>
+</svg>
